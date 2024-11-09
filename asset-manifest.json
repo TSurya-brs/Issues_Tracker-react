@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Issues_Tracker-react/static/css/main.07f5af3a.css",
+    "main.js": "/Issues_Tracker-react/static/js/main.c6464d23.js",
+    "index.html": "/Issues_Tracker-react/index.html",
+    "main.07f5af3a.css.map": "/Issues_Tracker-react/static/css/main.07f5af3a.css.map",
+    "main.c6464d23.js.map": "/Issues_Tracker-react/static/js/main.c6464d23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07f5af3a.css",
+    "static/js/main.c6464d23.js"
+  ]
+}
